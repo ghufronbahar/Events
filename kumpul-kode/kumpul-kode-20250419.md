@@ -33,3 +33,6 @@ Silakan isi kehadiranmu dengan format berikut di bawah 👇
 - [X] Nama: Seno
       Github: Cydnirn
       Status: Hadir
+- [X] Nama: Nadhim Alim
+      GitHub: nadhimalim
+      Status: Hadir
