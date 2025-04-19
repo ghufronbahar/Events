@@ -42,3 +42,6 @@ Silakan isi kehadiranmu dengan format berikut di bawah 👇
 - [X] Nama: Danil 
       GitHub: kkirayu
       Status: Hadir
+- [X] Nama : Ghufron
+      Github: Ghufronb
+      Status: Hadir
