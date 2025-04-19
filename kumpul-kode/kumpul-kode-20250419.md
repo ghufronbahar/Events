@@ -39,3 +39,6 @@ Silakan isi kehadiranmu dengan format berikut di bawah 👇
 - [X] Nama: Tirza Sarwono
       GitHub: tirzasrwn
       Status: Hadir
+- [X] Nama: Danil 
+      GitHub: kkirayu
+      Status: Hadir
