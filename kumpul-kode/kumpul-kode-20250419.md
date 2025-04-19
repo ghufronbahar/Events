@@ -30,3 +30,6 @@ Silakan isi kehadiranmu dengan format berikut di bawah 👇
 - [X] Nama: Tirza  
       GitHub: tirzasrwn
       Status: Hadir
+- [X] Nama: Nadhim Alim
+      GitHub: nadhimalim
+      Status: Hadir
