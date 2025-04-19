@@ -27,7 +27,6 @@ Kita akan ngobrolin bareng tentang:
 Silakan isi kehadiranmu dengan format berikut di bawah 👇
 
 ```markdown
-- [ ] Nama: [Nama Kamu]  
-      GitHub (opsional): [@username]  
-      Status: Hadir 
-      Komentar (opsional): [komentarmu tentang pertemuan hari ini]
+- [X] Nama: Tirza  
+      GitHub: tirzasrwn
+      Status: Hadir
