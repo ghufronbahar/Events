@@ -27,8 +27,8 @@ Kita akan ngobrolin bareng tentang:
 Silakan isi kehadiranmu dengan format berikut di bawah 👇
 
 ```markdown
-- [X] Nama: Tirza  
-      GitHub: tirzasrwn
+- [X] Nama: Daffa Ahmad
+      GitHub: DaffaAhmadSM
       Status: Hadir
 - [X] Nama: Seno
       Github: Cydnirn
